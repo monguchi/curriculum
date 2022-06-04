@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.sql.rowset.spi.SyncFactory"/>
+    <fullyQualifiedTypeName name="chapter1.HelloJava"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.html.HTMLOptGroupElement"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+    <fullyQualifiedTypeName name="chapter1.Businessman"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="chapter1.User"/>
+    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+    <fullyQualifiedTypeName name="javax.management.remote.SubjectDelegationPermission"/>
+    <fullyQualifiedTypeName name="chapter1.Supper"/>
+    <fullyQualifiedTypeName name="chapter1.A"/>
+    <fullyQualifiedTypeName name="chapter1.B"/>
+    <fullyQualifiedTypeName name="chapter1.C"/>
+    <fullyQualifiedTypeName name="chapter1.Greet"/>
+    <fullyQualifiedTypeName name="Study.Task"/>
+    <fullyQualifiedTypeName name="Study.InstanceOfSato"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.css.CSSImportRule"/>
+    <fullyQualifiedTypeName name="fruits.Fruits"/>
+    <fullyQualifiedTypeName name="contents.FruitsContents"/>
+</qualifiedTypeNameHistroy>

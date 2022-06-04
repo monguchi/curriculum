@@ -1,0 +1,24 @@
+package check;
+
+
+
+public class Main {
+
+	private String firstName="門口";
+	private String lastName ="絵里菜";
+	
+	
+	public static void main(String[] args) {
+		
+
+		private static void printName(String firstName,String lastName) {
+			System.out.println("printNameメソッド→"+firstName + lastName);
+			
+		}
+		
+		
+		
+
+	}
+
+}
