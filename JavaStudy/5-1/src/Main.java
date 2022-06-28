@@ -1,6 +1,5 @@
 
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -55,7 +54,6 @@ public class Main {
 		}
 		{
 //      問⑦ 配列arrayDateに今の年・月・日を入れてください。
-           Calendar cal = Calendar.getInstance();
           
           
 //	    <以下記述>
@@ -70,7 +68,7 @@ public class Main {
 //	    <以下記述>
            
            for(Object obj : arrayDate) {
-        	   System.err.println(arrayDate);
+        	   System.out.println(obj);
         	   
            }
 		}
